@@ -9,7 +9,6 @@ a Software Engineer who likes to make things. I mostly use C# with EF.
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff&style=for-the-badge)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=for-the-badge)
 ![iOS](https://img.shields.io/badge/ios-000.svg?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge)
 
 ### 👌 I'm interested in...
 ![Drones](https://img.shields.io/badge/drones-%234D4D4D.svg?style=for-the-badge&logo=&logoColor=white)
@@ -19,7 +18,7 @@ a Software Engineer who likes to make things. I mostly use C# with EF.
 ![Micro Electronics](https://img.shields.io/badge/micro%20electronics-%234D4D4D.svg?style=for-the-badge&logo=&logoColor=white)
 ![Reverse Engineering](https://img.shields.io/badge/reverse%20engineering-%234D4D4D.svg?style=for-the-badge&logo=&logoColor=white)
 ![Robotics](https://img.shields.io/badge/robotics-%234D4D4D.svg?style=for-the-badge&logo=&logoColor=white)
-
+![Photography](https://img.shields.io/badge/photography-%234D4D4D.svg?style=for-the-badge&logo=&logoColor=white)
 
 ### ⚙️ Tools and Software...
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=fff&style=for-the-badge)
