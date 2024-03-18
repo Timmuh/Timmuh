@@ -8,7 +8,7 @@ a Software Engineer who likes to make things. I mostly use C# with EF.
 ### 💻 I use...
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff&style=for-the-badge)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=for-the-badge)
-![iOS](https://img.shields.io/badge/17.2.1-blank?style=for-the-badge&logo=ios&logoColor=white&color=000)
+![iOS](https://img.shields.io/badge/17.4-blank?style=for-the-badge&logo=ios&logoColor=white&color=000)
 ![macOS](https://img.shields.io/badge/Sonoma-000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 👌 I'm interested in...
